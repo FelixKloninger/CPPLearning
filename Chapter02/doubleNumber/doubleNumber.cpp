@@ -1,14 +1,8 @@
-#include <iostream>
+int doMath(int first, int second, int third, int fourth);
 
-int doubleNumber(int num) {
-	return num * 2;
-}
+main()
+{
 
-int main() 
-{	
 
-	std::cout << "Enter a number" << '\n';
-	int inputNumber{};
-	std::cin >> inputNumber;
-	std::cout << "Double that is:" << doubleNumber(inputNumber) << '\n';
+
 }
